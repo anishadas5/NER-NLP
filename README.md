@@ -7,6 +7,9 @@ And the named entity recognition system will give results as 
 
 “Rahul(person) sold his Maruti 800 (car/object) at rupees 50000 (price) in 2015 (time)”
 
+![image](https://user-images.githubusercontent.com/88656750/141072910-60c6d8c5-6dcd-4566-859f-ce3b951ae52a.png)
+
+
 **Let’s start with the importing library.**
 
 import nltk
